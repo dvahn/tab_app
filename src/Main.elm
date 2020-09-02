@@ -391,8 +391,3 @@ instructions model =
         , li [] [ text "type <STRING> 51 for a slur mark; 52 for / 53 for \\. E.g. if you want a forward slide on string 3, type: 352" ]
         ]
 
-
-
-{- 
-   TODO: make downloadable
--}
