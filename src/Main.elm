@@ -394,6 +394,5 @@ instructions model =
 
 
 {- 
-   TODO: make downloadable,
-   extend lines
+   TODO: make downloadable
 -}
